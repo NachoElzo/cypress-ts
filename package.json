@@ -1,0 +1,12 @@
+{
+  "name": "cypress-ts",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "run": "npx cypress run"
+  },
+  "author": "jelzo",
+  "license": "ISC"
+}
